@@ -1,5 +1,5 @@
 # About
 
-This is my personal website. You can visit at [https://henriaidasso.me/](https://henriaidasso.me/)
+This is my personal website. You can visit at [https://mghtinlynn.github.io/](https://mghtinlynn.github.io/)
 
-Build using [tailpages](https://github.com/ahenrij/tailpages) started from this Harry Wang's [code base](https://github.com/harrywang/tailpages)
+Build using [tailpages](https://github.com/MgHtinLynn/tailpages) started from this Harry Wang's [code base](https://github.com/MgHtinLynn/tailpages)
