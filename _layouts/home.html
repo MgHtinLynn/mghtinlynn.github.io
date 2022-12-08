@@ -1,0 +1,60 @@
+---
+layout: default
+---
+{% if site.show-nav-menu %}
+  {% include nav.html%}
+{% endif %}
+
+<div class="mx-auto text-center prose prose-{{site.theme-color}}">
+  <div>
+    <img class="object-cover mx-auto h-36 w-36 mt-0 md:mt-8 rounded-full" src="{{site.baseurl}}/assets/img/{{site.author-image}}"
+      alt="author profile image">
+    <h1 class="dark:text-white">{{site.author}}</h1>
+  </div>
+  {% if site.author-bio %}
+  
+  <p class="mx-5 md:mx-auto text-lg xl:!text-2xl lg:py-3 dark:text-white"><span id="typing"></span></p>
+  
+  <p class="text-gray-500 dark:text-stone-100 mx-5 md:mx-auto pb-4 lg:text-lg xl:text-xl">
+    Henri is passionate about crafting real-world solutions using technology.
+    Currently Ph.D. Student at ÉTS Montréal, his work in the Computer Systems Architecture Laboratory focuses on using statistical analysis methods and Machine Learning
+    to help industrial managers improve their DevOps processes. He is working on a wide range of topics related to Artificial Intelligence for IT Operations. Read <a class="!text-gray-500 dark:!text-stone-200" href="/about">more</a> about me.
+  </p>
+
+  {% endif %}
+</div>
+</div>
+
+<script type="text/javascript">
+  (function(){
+    type();
+  })();
+
+  function type() {
+    var typing = document.getElementById('typing');
+    const PAUSE = 1500; // 2s
+
+    var typewriter = new Typewriter(typing, {
+      loop: true,
+      delay: 75,
+    });
+
+    typewriter
+      .typeString('Researcher')
+      .pauseFor(PAUSE)
+      .deleteAll()
+      .typeString('Data Scientist')
+      .pauseFor(PAUSE)
+      .deleteAll()
+      .typeString('Software Engineer')
+      .pauseFor(PAUSE)
+      .deleteAll()
+      .typeString('Machine Learning Engineer')
+      .pauseFor(PAUSE)
+      .deleteAll()
+      .start();
+  }
+</script>
+
+{% include social-media.html %}
+{% include footer.html %}
