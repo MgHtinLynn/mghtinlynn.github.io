@@ -8,7 +8,7 @@ permalink: about
 
 <h2 class="dark:text-stone-200 mt-32">Summary</h2>
 <p class="dark:text-stone-300">
-HtinLynn is a experienced Full Stack Developer with a demonstrated history of working in the software industry. Passionate
+Lynn is a experienced Full-Stack Developer with a demonstrated history of working in the software industry. Passionate
 Developer. A cool guy with a very hard-working mindset, willing to help when other people are in need,
 fluent with many technical skill and expertise, delivering good artefacts in time.
  <br>
