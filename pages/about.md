@@ -6,6 +6,11 @@ permalink: about
 
 <div style="text-align: justify">
 
+<h2 class="dark:text-stone-200 mt-32">Skills</h2>
+<p class="dark:text-stone-300">
+PHP In Laravel, React, NextJS, VueJS, NuxtJS, Golang (Gin, Gorm), Docker, Unit Testing, REST, GraphQL, Git, SVN
+</p>
+
 <h2 class="dark:text-stone-200 mt-32">Summary</h2>
 <p class="dark:text-stone-300">
 Lynn is an experienced full-stack developer with a demonstrated history of working in the software industry. Passionate Developer. A cool guy with a very hardworking mindset, eager to assist others in need, fluent in many technical skills and expertise, and capable of delivering good artefacts on time.
@@ -19,7 +24,6 @@ Since fall 2022, Lynn is part-time final-year student in <a href="https://www.te
 <br>
 
 Prior to that, Lynn has been a part-time final-year student in the B.Sc. (Hons.) Business IT programme at the University of Greenwich, UK, Myanmar campus since the fall of 2022. He worked for over seven years as a full-time software engineer before dropping out of university in 2014 with a bachelor's degree in computing. In March 2021, he attempts to return to university and receives the trophy for his bachelor's degree, a B.Sc. (hons.) in business information technology.
-
 </p>
 
 <h2 class="dark:text-stone-200">Work Experience</h2>
