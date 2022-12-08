@@ -8,7 +8,7 @@ permalink: about
 
 <h2 class="dark:text-stone-200 mt-32">Skills</h2>
 <p class="dark:text-stone-300">
-PHP In Laravel, React, NextJS, VueJS, NuxtJS, Golang (Gin, Gorm), Docker, Unit Testing, REST, GraphQL, Git, SVN
+PHP In Laravel, React, NextJS, VueJS, NuxtJS, Golang (Gin, Gorm), SQL, XML, Javascript, JQuery, AlpineJS, Livewire, Tailwind, Docker, Unit Testing, REST, GraphQL, Git, SVN
 </p>
 
 <h2 class="dark:text-stone-200 mt-32">Summary</h2>
