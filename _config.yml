@@ -46,4 +46,4 @@ plugins:
 # collections
 collections_dir: collections
 collections:
-  - workExperiences
+  - experiences
