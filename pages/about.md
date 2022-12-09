@@ -14,10 +14,10 @@ PHP In Laravel, React, NextJS, VueJS, NuxtJS, Golang (Gin, Gorm), SQL, PostgreSQ
 <h2 class="dark:text-stone-200 mt-32">Summary</h2>
 
 <ul class="list-disc dark:text-stone-300">
-<li>Experienced full-stack developer with a demonstrated history of working in the software industry.</li>
+<li>An experienced full-stack developer with a demonstrated history of working in the software industry.</li>
 <li>Passionate and a cool guy with a very hardworking mindset, eager to assist others in need, fluent in many technical skills and expertise, and capable of delivering good artefacts on time.</li>
-<li>software engineer with seven years of experience and has developed his skills around full-stack web development, DevOps practices, and cloud-based applications.</li>
-<li>>Advanced knowledge of design patterns, architecture patterns, and databases.</li>
+<li>Software engineer with seven years of experience and has developed his skills around full-stack web development, DevOps practices, and cloud-based applications.</li>
+<li>Advanced knowledge of design patterns, architecture patterns, and databases.</li>
 </ul>
 
 <h2 class="dark:text-stone-200">Work Experience</h2>
