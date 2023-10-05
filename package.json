@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/ahenrij/tailpages.git",
-  "author": "Harry Wang <harryjwang@gmail.com>",
+  "author": "Htin Lynn <htinlin01@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.0",
