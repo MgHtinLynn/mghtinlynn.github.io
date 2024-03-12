@@ -8,7 +8,7 @@ permalink: about
 
 <h2 class="dark:text-stone-200 mt-32">Skills</h2>
 <p class="dark:text-stone-300">
-PHP In Laravel, React, NextJS, VueJS, NuxtJS, Golang (Gin, Gorm), SQL, PostgreSQL, Elasticsearch, XML, Javascript, JQuery, AlpineJS, Livewire, Tailwind, Docker, CI/CD, Unit Testing, REST, GraphQL, Elasticsearch, Redis, Git and SVN.
+PHP In Laravel, React, NextJS, JAVA, C#, VueJS, NuxtJS, Golang (Gin, Gorm), SQL, PostgreSQL, Elasticsearch, XML, Javascript, JQuery, AlpineJS, Livewire, Tailwind, Docker, CI/CD, Unit Testing, REST, GraphQL, Elasticsearch, Redis, Git and SVN.
 </p>
 
 <h2 class="dark:text-stone-200 mt-32">Summary</h2>
